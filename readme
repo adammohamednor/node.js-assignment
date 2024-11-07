@@ -1,0 +1,7 @@
+# my node js project
+i make more project in my github
+
+mkdir -p task-manager-api/{controllers,data,uploads,routes,utils,views} && touch task
+manager
+api/{controllers/{taskController.js,authController.js},data/tasks.json,routes/{taskRoutes.js,au
+ thRoutes.js},utils/fileHandler.js,views/index.html,app.js,package.json,README.md}
